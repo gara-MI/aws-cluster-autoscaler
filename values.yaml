@@ -15,3 +15,5 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+clusterName: pai-dev
